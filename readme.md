@@ -1,0 +1,1 @@
+To run sampleNetwork.py, extract the contents of Train.zip and Validation.zip to folders named "Train" and "Validation" respectively (or change the train/validation paths in the code).
